@@ -1,0 +1,3 @@
+# Movie Ratings EDA & Advanced Visualization
+
+A starter project...
