@@ -5,13 +5,15 @@ This project performs **Exploratory Data Analysis (EDA)** and **Advanced Data Vi
 
 ## 📁 Project Structure
 
--data/ – Contains the CSV file (Movie-Rating.csv)
--notebooks/ – Jupyter Notebook for EDA and visualizations
--Movie_Visualization_EDA.ipynb
--images/ – (Optional) Save your plots here
--.gitignore – To ignore unnecessary files in Git
--README.md – Project overview and instructions
--requirements.txt – List of required Python libraries
+## 📁 Project Structure (Simple)
+
+- **data/** – Contains the CSV file (`Movie-Rating.csv`)
+- **notebooks/** – Jupyter Notebook for EDA and visualizations  
+  - `Movie_Visualization_EDA.ipynb`
+- **images/** – (Optional) Save your plots here
+- **.gitignore** – To ignore unnecessary files in Git
+- **README.md** – Project overview and instructions
+- **requirements.txt** – List of required Python libraries
 
 ## 📌 Objective
 
