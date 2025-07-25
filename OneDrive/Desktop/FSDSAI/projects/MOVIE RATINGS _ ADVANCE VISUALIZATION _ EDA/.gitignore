@@ -4,7 +4,6 @@ __pycache__/
 venv/
 .env/
 .ipynb_checkpoints
-data/*.csv
 images/*.png
 images/*.jpg
 .DS_Store
