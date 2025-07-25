@@ -5,8 +5,6 @@ This project performs **Exploratory Data Analysis (EDA)** and **Advanced Data Vi
 
 ## 📁 Project Structure
 
-## 📁 Project Structure (Simple)
-
 - **data/** – Contains the CSV file (`Movie-Rating.csv`)
 - **notebooks/** – Jupyter Notebook for EDA and visualizations  
   - `Movie_Visualization_EDA.ipynb`
