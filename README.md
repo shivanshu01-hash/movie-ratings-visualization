@@ -4,18 +4,14 @@
 This project performs **Exploratory Data Analysis (EDA)** and **Advanced Data Visualization** on a movie ratings dataset using Python libraries like Pandas, Seaborn, and Matplotlib.
 
 ## 📁 Project Structure
-
 ```
-Movie-Ratings-EDA/
-├── data/
-│   └── Movie-Rating.csv
-├── notebooks/
-│   └── Movie_Visualization_EDA.ipynb
-├── images/
-│   └── visualizations (optional saved plots)
-├── .gitignore
-├── README.md
-└── requirements.txt
+data/ – Contains the CSV file (Movie-Rating.csv)
+notebooks/ – Jupyter Notebook for EDA and visualizations
+Movie_Visualization_EDA.ipynb
+images/ – (Optional) Save your plots here
+.gitignore – To ignore unnecessary files in Git
+README.md – Project overview and instructions
+requirements.txt – List of required Python libraries
 ```
 
 ## 📌 Objective
@@ -32,10 +28,6 @@ Movie-Ratings-EDA/
 - Ratings vs. Duration plots
 - Heatmaps, KDE plots, boxplots, violinplots, and more
 - Custom background and themes in Seaborn
-
-## 📷 Sample Visualizations
-
-> (Insert your best plot screenshots here in the `images/` folder and use `![Alt Text](images/plot1.png)` to embed.)
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +47,7 @@ You may replace it with any movie ratings dataset following a similar structure.
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/yourusername/Movie-Ratings-EDA.git
+git clone https://github.com/shivanshu01-hash/Movie-Ratings-EDA.git
 cd Movie-Ratings-EDA
 ```
 
@@ -84,11 +76,7 @@ seaborn
 - Add Streamlit app for web-based interactive dashboard
 - Merge with IMDb or TMDB API for live data
 - Use NLP to analyze movie reviews
-
-## 🙌 Contributing
-
-Pull requests and feedback are welcome! If you'd like to contribute, feel free to fork the repo and raise a PR.
-
+  
 ## 📫 Contact
 
 For queries or collaboration, reach out via [LinkedIn](www.linkedin.com/in/shivanshu-sahu-4aa7572a5) or GitHub Issues.
