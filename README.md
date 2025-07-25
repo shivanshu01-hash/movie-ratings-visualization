@@ -4,7 +4,7 @@
 This project performs **Exploratory Data Analysis (EDA)** and **Advanced Data Visualization** on a movie ratings dataset using Python libraries like Pandas, Seaborn, and Matplotlib.
 
 ## 📁 Project Structure
-```
+
 -data/ – Contains the CSV file (Movie-Rating.csv)
 -notebooks/ – Jupyter Notebook for EDA and visualizations
 -Movie_Visualization_EDA.ipynb
@@ -12,7 +12,6 @@ This project performs **Exploratory Data Analysis (EDA)** and **Advanced Data Vi
 -.gitignore – To ignore unnecessary files in Git
 -README.md – Project overview and instructions
 -requirements.txt – List of required Python libraries
-```
 
 ## 📌 Objective
 
