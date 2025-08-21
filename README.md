@@ -1,9 +1,9 @@
 
-# 🎬 Movie Ratings - EDA & Advanced Visualization
+# Movie Ratings - EDA & Advanced Visualization
 
 This project performs **Exploratory Data Analysis (EDA)** and **Advanced Data Visualization** on a movie ratings dataset using Python libraries like Pandas, Seaborn, and Matplotlib.
 
-## 📁 Project Structure
+## Project Structure
 
 - **data/** – Contains the CSV file (`Movie-Rating.csv`)
 - **notebooks/** – Jupyter Notebook for EDA and visualizations  
@@ -13,13 +13,13 @@ This project performs **Exploratory Data Analysis (EDA)** and **Advanced Data Vi
 - **README.md** – Project overview and instructions
 - **requirements.txt** – List of required Python libraries
 
-## 📌 Objective
+## Objective
 
 - Perform in-depth EDA on movie rating data
 - Use Seaborn & Matplotlib for aesthetic and informative visualizations
 - Identify patterns, correlations, and trends in ratings, genres, durations, etc.
 
-## 📊 Features Covered
+## Features Covered
 
 - Data cleaning & preprocessing
 - Univariate and multivariate analysis
@@ -28,21 +28,21 @@ This project performs **Exploratory Data Analysis (EDA)** and **Advanced Data Vi
 - Heatmaps, KDE plots, boxplots, violinplots, and more
 - Custom background and themes in Seaborn
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- Python 🐍
+- Python 
 - Pandas
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
 - (Optional: Streamlit for web deployment)
 
-## 📂 Dataset
+## Dataset
 
 The dataset used is located in `/data/Movie-Rating.csv`.  
 You may replace it with any movie ratings dataset following a similar structure.
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository  
 ```bash
@@ -62,7 +62,7 @@ jupyter notebook
 
 4. Explore the notebook: `Movie_Visualization_EDA.ipynb`
 
-## ✅ Requirements
+## Requirements
 
 ```
 pandas
@@ -70,13 +70,13 @@ matplotlib
 seaborn
 ```
 
-## 📈 Future Scope
+## Future Scope
 
 - Add Streamlit app for web-based interactive dashboard
 - Merge with IMDb or TMDB API for live data
 - Use NLP to analyze movie reviews
   
-## 📫 Contact
+## Contact
 
 For queries or collaboration, reach out via [LinkedIn](www.linkedin.com/in/shivanshu-sahu-4aa7572a5) or GitHub Issues.
 
